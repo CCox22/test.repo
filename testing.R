@@ -6,4 +6,8 @@ print("new thing added")
 
 print("testing again")
 
-# what
+
+music <- function(x){
+  y <- x^2
+  return(y)
+}
